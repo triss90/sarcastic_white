@@ -2,7 +2,7 @@
   "identifier": "org.sarcastic-white.sarcastic-white",
   "name": "Sarcastic White",
   "organization": "Tristan White",
-  "description": "Sarcastic White is an extension for Nova that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code syntax highlighting and UI components.",
+  "description": "Sarcastic White is an extension for Nova that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.",
   "version": "1.0.1",
   "categories": ["themes"],
   "bugs": "https://triss.dev",
