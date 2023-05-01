@@ -3,3 +3,5 @@
 /web/run.sh
 /DOC.md
 /TODO.md
+web/.DS_Store
+web/assets/.DS_Store

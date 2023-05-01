@@ -17,7 +17,6 @@
                 <br>
 				<h1><img src="../../assets/img/Nova.png" alt="Nova Icon" style="height:3rem; display:inline-block;"> Sarcastic White for Nova</h1>
                 <p><strong>Sarcastic White</strong> is a theme for Nova that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
-                <img src="../../assets/img/nova-example.png" style="max-width:100%;width:100%;box-shadow:var(--shadow04);border-radius:var(--spacing01)" alt="">
             </div>	
 		</div>
 	</div>
@@ -29,18 +28,17 @@
 			<div class="tiny-12">
                 <h3>Install Sarcastic White</h3>
                 <ol>
-                    <li>Open the <a href="https://marketplace.visualstudio.com/items?itemName=TristanWhite.sarcastic-white" target="_blank">VS Code Extension Marketplace</a> and search for <code>sarcastic white</code></li>
+                    <li>Open the <a href="https://extensions.panic.com/extensions/org.sarcastic-white/org.sarcastic-white.sarcastic-white/" target="_blank">Nova Extension Marketplace</a> and search for <code>sarcastic white</code></li>
                     <li>Select the Sarcastic White extension and press <code>Install</code></li>
-                    <li>VS Code will prompt you for a reload.</li>
+                    <img src="../../assets/img/nova-example.png" style="max-width:850px;width:100%;box-shadow:var(--shadow04);border-radius:var(--spacing01)" alt="">
+                    <br>
+                    <li>Go Settings &#8594 Theme and select the <code>Sarcastic White</code> theme</li>
+                    <img src="../../assets/img/nova-example2.png" style="max-width:550px;width:100%;box-shadow:var(--shadow04);border-radius:var(--spacing01)" alt="">
                 </ol>
-                <img src="../../assets/img/vscode-example.png" style="max-width:450px;width:100%;box-shadow:var(--shadow04);border-radius:var(--spacing01)" alt="">
                 <br><br><br>
             </div>	
 		</div>
     </div>
 </section>
-
-
-
 
 <?php include('../../_inc/footer.php'); ?>
