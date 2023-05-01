@@ -17,6 +17,8 @@
                 <br>
 				<h1><img src="../../assets/img/HLJS.png" alt="highlight.js Icon" style="position:relative; top:0.3rem; height:3rem; display:inline-block;"> Sarcastic White for highlight.js</h1>
                 <p><strong>Sarcastic White</strong> is a theme for highlight.js that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
+                <br>
+                <a class="button primary" href="/ports/highlightjs/sarcastic-white.css">Download Sarcastic White</a>
             </div>	
 		</div>
 	</div>
@@ -27,6 +29,8 @@
         <div class="row">
 			<div class="tiny-12">
                 <h3>Install Sarcastic White</h3>
+                <p>Download the <a href="/ports/highlightjs/sarcastic-white.css">sarcastic-white.css</a> file and include it in your documents head like so:</p>
+                <pre><code class="language-html">&lt;link rel="stylesheet" href="/path/to/styles/sarcastic-white.css"&gt;</code></pre>
                 <br><br><br>
             </div>	
 		</div>
