@@ -5,7 +5,7 @@
   "version": "1.0.5",
   "icon": "images/sarcastic-white.png",
   "publisher": "TristanWhite",
-  "repository": "",
+  "repository": "https://github.com/triss90/sarcastic_white",
   "engines": {
     "vscode": "^1.77.0"
   },

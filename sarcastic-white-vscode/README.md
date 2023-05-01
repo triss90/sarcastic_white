@@ -4,7 +4,7 @@
 
 We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.
 
-![VS Code Theme Example](images/example.png)
+![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/web/assets/img/vscode-example2.png)
 
 ## Changelog
 
