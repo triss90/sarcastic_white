@@ -15,7 +15,7 @@
 		<div class="row">
 			<div class="tiny-12">
                 <br>
-				<h1><img src="../../assets/img/Warp.png" alt="Warp Icon" style="height:3rem; display:inline-block;"> Sarcastic White for Warp</h1>
+				<h1><img src="../../assets/img/Warp.png" alt="Warp Icon" style="position:relative; top:0.3rem; height:3rem; display:inline-block;"> Sarcastic White for Warp</h1>
                 <p><strong>Sarcastic White</strong> is a theme for Warp that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
             </div>	
 		</div>

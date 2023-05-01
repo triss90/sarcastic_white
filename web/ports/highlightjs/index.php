@@ -15,8 +15,8 @@
 		<div class="row">
 			<div class="tiny-12">
                 <br>
-				<h1><img src="../../assets/img/Warp.png" alt="Warp Icon" style="height:3rem; display:inline-block;"> Sarcastic White for Warp</h1>
-                <p><strong>Sarcastic White</strong> is a theme for Warp that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
+				<h1><img src="../../assets/img/HLJS.png" alt="highlight.js Icon" style="position:relative; top:0.3rem; height:3rem; display:inline-block;"> Sarcastic White for highlight.js</h1>
+                <p><strong>Sarcastic White</strong> is a theme for highlight.js that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
             </div>	
 		</div>
 	</div>
@@ -27,16 +27,6 @@
         <div class="row">
 			<div class="tiny-12">
                 <h3>Install Sarcastic White</h3>
-                <ol>
-                    <li>To start, create a config directory in your home directory:</li>
-                    <pre><code>mkdir -p ~/.warp/themes/</code></pre>
-                    <blockquote>Note: It may take several minutes for Warp to initially discover the new config directory. You can either wait or just restart the application. After that step, all future changes to <code>~/.warp/themes</code> directory will be reflected in Warp within seconds.</blockquote>
-                    <br>
-                    <li>Add your new custom theme yaml theme file to this directory:</li>
-                    <pre><code>cp ~/Downloads/my_awesome_theme.yaml ~/.warp/themes/</code></pre>
-                    <p>Your new theme should now be visible on the list(Settings &#8594 Appearance) of available themes.</p>
-                </ol>
-                <p>Refer to the <a href="https://docs.warp.dev/appearance/custom-themes" target="_blank">Warp documentation</a> for more info on custom themes.</p>
                 <br><br><br>
             </div>	
 		</div>

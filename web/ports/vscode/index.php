@@ -15,7 +15,7 @@
 		<div class="row">
 			<div class="tiny-12">
                 <br>
-				<h1><img src="../../assets/img/vscode.png" alt="VS Code Icon" style="height:3rem; display:inline-block;"> Sarcastic White for VS Code</h1>
+				<h1><img src="../../assets/img/vscode.png" alt="VS Code Icon" style="position:relative; top:0.3rem; height:3rem; display:inline-block;"> Sarcastic White for VS Code</h1>
                 <p><strong>Sarcastic White</strong> is a theme for VS Code that changes the original appearance to a dark blue-ish look and feel. We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.</p>
                 <img src="../../assets/img/vscode-example2.png" style="max-width:100%;width:100%;box-shadow:var(--shadow04);border-radius:var(--spacing01)" alt="">
             </div>	
