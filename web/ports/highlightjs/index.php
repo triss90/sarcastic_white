@@ -31,6 +31,8 @@
                 <h3>Install Sarcastic White</h3>
                 <p>Download the <a href="/ports/highlightjs/sarcastic-white.css">sarcastic-white.css</a> file and include it in your documents head like so:</p>
                 <pre><code class="language-html">&lt;link rel="stylesheet" href="/path/to/styles/sarcastic-white.css"&gt;</code></pre>
+                <br>
+                <p>Refer to the <a href="https://highlightjs.org/usage/" target="_blank">highlight.js documentaion</a> for more info on custom themes.</p>
                 <br><br><br>
             </div>	
 		</div>
