@@ -988,7 +988,7 @@ svg#editor #code path#export_4 {
 .card.disabled .header,
 .card.disabled .body,
 .card.disabled .footer {
-  opacity: 0.5;
+  opacity: 0.25;
 }
 .card:hover {
   transform: scale(1.025);

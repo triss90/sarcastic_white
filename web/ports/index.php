@@ -94,7 +94,7 @@
                         <p>VS Code is a versatile, open-source code editor with built-in Git support, IntelliSense, debugging, and a robust extension ecosystem.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/vscode" class="link">Read more</a>
+                        <a href="/ports/vscode" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                         <p>Slack is a real-time communication platform for teams, enabling collaboration, file-sharing, and streamlined workflow management.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/slack" class="link">Read more</a>
+                        <a href="/ports/slack" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                         <p>Highlight.js is a popular, open-source JavaScript library for syntax highlighting, supporting over 190 languages and numerous styles, enhancing code readability.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/highlightjs" class="link">Read more</a>
+                        <a href="/ports/highlightjs" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
                         <p>Warp is a modern, fast terminal emulator focused on performance, user experience, and productivity for developers.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/warp" class="link">Read more</a>
+                        <a href="/ports/warp" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                         <p>Sublime Text 4 is a fast, flexible cross-platform text editor with advanced features, such as multiple cursors, instant file switching, and plugin support.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/sublimetext4" class="link">Read more</a>
+                        <a href="/ports/sublimetext4" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@
                         <p>iTerm2 is a macOS terminal emulator offering advanced features like split panes, search, and autocomplete functionality.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/iterm2" class="link">Read more</a>
+                        <a href="/ports/iterm2" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@
                         <p>Nova is a powerful, modern code editor for macOS with native speed, intuitive features, and customizable interface to boost productivity.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/nova" class="link">Read more</a>
+                        <a href="/ports/nova" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@
                         <p>PuTTY is a free, open-source terminal emulator providing SSH, Telnet, and serial console access for Windows.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/putty" class="link">Read more</a>
+                        <a href="/ports/putty" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@
                         <p>Hyper.js is an extensible, open-source terminal emulator built with web technologies for Windows, macOS, and Linux.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/hyperjs" class="link">Read more</a>
+                        <a href="/ports/hyperjs" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
                         <p>Brackets is a lightweight, open-source code editor focused on web development, offering live preview, inline editing, and preprocessor support.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/brackets" class="link">Read more</a>
+                        <a href="/ports/brackets" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -249,7 +249,7 @@
                         <p>TextMate is a macOS text editor that combines simplicity with powerful features like code folding, snippets, and version control integration.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/textmate" class="link">Read more</a>
+                        <a href="/ports/textmate" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -264,7 +264,7 @@
                         <p>Rainbow is an easy-to-use, lightweight JavaScript library for code syntax highlighting, improving readability and presentation of code samples.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/rainbowjs" class="link">Read more</a>
+                        <a href="/ports/rainbowjs" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -280,7 +280,7 @@
                         <p>VIM is a highly configurable, command-driven text editor for Unix systems, known for its efficiency and extensibility via plugins.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/vim" class="link">Read more</a>
+                        <a href="/ports/vim" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -296,7 +296,7 @@
                         <p>Notepad++ is a popular Windows text and source code editor with syntax highlighting, code folding, customizable interface, and plugin support.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/notepad++" class="link">Read more</a>
+                        <a href="/ports/notepad++" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -312,7 +312,7 @@
                         <p>Prism.js is a lightweight, extensible syntax highlighter for web pages, supporting various languages and themes.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/prismjs" class="link">Read more</a>
+                        <a href="/ports/prismjs" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -328,7 +328,7 @@
                         <p>WebStorm is a powerful, feature-rich IDE for JavaScript development, offering smart code completion, debugging, and built-in tools for web technologies.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/webstorm" class="link">Read more</a>
+                        <a href="/ports/webstorm" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
@@ -344,7 +344,7 @@
                         <p>PhpStorm is a professional, cross-platform PHP IDE with intelligent code assistance, debugging, testing, and support for modern web technologies.</p>
                     </div>
                     <div class="footer">
-                        <a href="/ports/phpstorm" class="link">Read more</a>
+                        <a href="/ports/phpstorm" class="link">Install theme</a>
                     </div>
                 </div>
             </div>
