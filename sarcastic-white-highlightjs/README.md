@@ -1,0 +1,4 @@
+# Sarcastic White Theme
+
+**Sarcastic White** is an extension for HighlightJS that changes the original appearance to a dark blue-ish look and feel.
+We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code syntax highlighting and UI components.

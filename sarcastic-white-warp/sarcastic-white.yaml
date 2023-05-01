@@ -1,0 +1,27 @@
+background_image:
+  # background image author: Tristan White, triss.dev
+  path: sarcastic_white.png
+  opacity: 0
+accent: "#fefefe"
+background: "#161e2f"
+details: darker
+foreground: "#fefefe"
+terminal_colors:
+  bright:
+    black: "#171423"
+    blue: "#d8dde7"
+    cyan: "#4c566a"
+    green: "#3e4658"
+    magenta: "#eff3f8"
+    red: "#ffad60"
+    white: "#fefefe"
+    yellow: "#383e4b"
+  normal:
+    black: "#161e2f"
+    blue: "#94b7e1"
+    cyan: "#5f8cbf"
+    green: "#96ceb4"
+    magenta: "#a696c8"
+    red: "#d9534f"
+    white: "#fefefe"
+    yellow: "#ffeead"

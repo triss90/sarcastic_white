@@ -1,0 +1,24 @@
+{
+  "name": "sarcastic-white",
+  "displayName": "Sarcastic White",
+  "description": "Sarcastic White is an extension for VS Code that changes the original appearance to a dark blue-ish look and feel.",
+  "version": "1.0.5",
+  "icon": "images/sarcastic-white.png",
+  "publisher": "TristanWhite",
+  "repository": "",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sarcastic White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sarcastic-white-color-theme.json"
+      }
+    ]
+  }
+}

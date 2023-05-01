@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Overpass:wght@400;700&display=swap");
+
+html,
+body {
+  font-family: var(--font01);
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font02);
+}
+
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3.5rem;
+}
+h3 {
+  font-size: 2.35rem;
+}
+h4 {
+  font-size: 1.75rem;
+}
+
+p {
+  font-size: 1.25rem;
+  line-height: 1.75;
+}
+
+li {
+  font-size: 1.25rem;
+}
+
+a {
+  color: var(--base17);
+  text-decoration: none;
+  &:hover {
+    color: var(--base19);
+    text-decoration: underline;
+  }
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 2rem 10%;
+  background-color: var(--base10);
+  &.dark {
+    background-color: var(--base04);
+  }
+}
+
+blockquote {
+  font-size: 1.25rem;
+  border-left: 0.25rem solid var(--base19);
+  margin: var(--spacing02) var(--spacing02);
+  padding-left: var(--spacing02);
+  font-style: italic;
+}
+
+pre {
+  margin: 0;
+  padding: 0;
+}
+pre,
+code {
+  white-space: pre-line;
+  margin: 0;
+  padding: 0;
+}
+code {
+  background: var(--base06);
+  color: var(--base10);
+  padding: calc(var(--spacing01) / 2) var(--spacing01);
+  border-radius: var(--spacing01);
+}

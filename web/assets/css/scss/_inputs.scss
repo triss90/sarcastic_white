@@ -1,0 +1,8 @@
+input[type="text"] {
+  min-width: 40%;
+  padding: var(--spacing01) var(--spacing02);
+  background: var(--base07);
+  border: 1px solid var(--base10);
+  border-radius: var(--spacing01);
+  font-size: 1.25rem;
+}

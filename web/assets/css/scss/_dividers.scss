@@ -1,0 +1,50 @@
+.divider01 {
+  path {
+    fill: var(--base08);
+  }
+}
+.divider02 {
+  background: var(--base08);
+  path {
+    fill: var(--base05);
+  }
+}
+.divider03 {
+  @media (max-width: 48em) {
+    height: 46px;
+  }
+  background-color: var(--base05);
+  path {
+    fill: var(--base08);
+  }
+}
+.divider04 {
+  background-color: var(--base08);
+  stroke: var(--base10);
+  @media (max-width: 48em) {
+    height: 100px;
+  }
+  path {
+    fill: transparent;
+  }
+}
+.divider05 {
+  background-color: var(--base08);
+  path {
+    fill: var(--base07);
+  }
+}
+.divider06 {
+  background-color: var(--base07);
+  path {
+    &:nth-child(1) {
+      fill: var(--base08);
+    }
+    &:nth-child(2) {
+      fill: var(--base10);
+    }
+    &:nth-child(3) {
+      fill: var(--base09);
+    }
+  }
+}

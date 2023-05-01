@@ -1,0 +1,278 @@
+/* Code Editor */
+svg#editor {
+  width: 100%;
+  position: relative;
+  right: -1.85rem;
+  @media (max-width: 73em) {
+    margin-top: 2rem;
+    right: 0;
+  }
+  display: block;
+  filter: drop-shadow(var(--shadow03));
+
+  #code path {
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+    animation: dash 0.3s steps(8) forwards;
+
+    &#import_1_1 {
+      animation-delay: 0.3s;
+    }
+    &#import_1_2 {
+      animation-delay: 0.6s;
+    }
+    &#import_1_3 {
+      animation-delay: 0.9s;
+    }
+
+    &#import_2_0 {
+      animation-delay: 1.2s;
+    }
+    &#import_2_1 {
+      animation-delay: 1.5s;
+    }
+    &#import_2_2 {
+      animation-delay: 1.8s;
+    }
+    &#import_2_3 {
+      animation-delay: 2.1s;
+    }
+
+    &#declaration_1_0 {
+      animation-delay: 2.4s;
+    }
+    &#declaration_1_1 {
+      animation-delay: 2.7s;
+    }
+    &#declaration_1_2 {
+      animation-delay: 3s;
+    }
+
+    &#declaration_2_0 {
+      animation-delay: 3.3s;
+    }
+    &#declaration_2_1 {
+      animation-delay: 3.6s;
+    }
+    &#declaration_2_2 {
+      animation-delay: 3.9s;
+    }
+
+    &#properties_1_0 {
+      animation-delay: 4.2s;
+    }
+    &#properties_1_1 {
+      animation-delay: 4.5s;
+    }
+    &#properties_2_0 {
+      animation-delay: 4.8s;
+    }
+    &#properties_2_1 {
+      animation-delay: 5.1s;
+    }
+    &#properties_3_0 {
+      animation-delay: 5.4s;
+    }
+    &#properties_3_1 {
+      animation-delay: 5.7s;
+    }
+    &#properties_4_0 {
+      animation-delay: 6s;
+    }
+    &#properties_4_1 {
+      animation-delay: 6.3s;
+    }
+    &#properties_5_0 {
+      animation-delay: 6.6s;
+    }
+    &#properties_5_1 {
+      animation-delay: 6.9s;
+    }
+    &#properties_6_0 {
+      animation-delay: 7.2s;
+    }
+    &#properties_6_1 {
+      animation-delay: 7.5s;
+    }
+
+    &#declaration_3_0 {
+      animation-delay: 7.8s;
+    }
+
+    &#declaration_4_0 {
+      animation-delay: 8.1s;
+    }
+    &#declaration_4_1 {
+      animation-delay: 8.4s;
+    }
+    &#declaration_4_2 {
+      animation-delay: 8.7s;
+    }
+    &#declaration_4_3 {
+      animation-delay: 9s;
+    }
+    &#declaration_4_4 {
+      animation-delay: 9.3s;
+    }
+
+    &#declaration_5_0 {
+      animation-delay: 9.6s;
+    }
+    &#declaration_5_1 {
+      animation-delay: 9.9s;
+    }
+    &#declaration_5_2 {
+      animation-delay: 10.2s;
+    }
+    &#declaration_5_3 {
+      animation-delay: 10.5s;
+    }
+    &#declaration_5_4 {
+      animation-delay: 10.8s;
+    }
+    &#declaration_5_5 {
+      animation-delay: 11.1s;
+    }
+
+    &#export_0 {
+      animation-delay: 11.4s;
+    }
+    &#export_1 {
+      animation-delay: 11.7s;
+    }
+    &#export_2 {
+      animation-delay: 12s;
+    }
+    &#export_3 {
+      animation-delay: 12.3s;
+    }
+    &#export_4 {
+      animation-delay: 12.6s;
+    }
+  }
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Code Editor */
+.parallax {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  @media (max-width: 48em) {
+    display: none;
+  }
+  &__inner {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    height: 800px;
+    &.ports {
+      top: -100px;
+    }
+  }
+  &__layer &__item {
+    position: absolute;
+    &:after {
+      content: attr(data-title);
+      position: absolute;
+      line-height: 20px;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      transition: all 0.5s ease;
+      visibility: hidden;
+      opacity: 0;
+      color: black;
+    }
+    &:hover {
+      &:after {
+        visibility: visible;
+        opacity: 1;
+      }
+    }
+  }
+  &__layer:nth-child(1) &__item {
+    top: 200px;
+    left: 120px;
+    width: 340px;
+    height: 140px;
+    background-color: transparent;
+    background-image: url("/assets/img/slack.png");
+    background-size: 40%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(2) &__item {
+    top: 440px;
+    left: 400px;
+    width: 240px;
+    height: 200px;
+    background-color: transparent;
+    background-image: url("/assets/img/Nova.png");
+    background-size: 60%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(3) &__item {
+    top: 500px;
+    left: 160px;
+    width: 300px;
+    height: 200px;
+    background-color: transparent;
+    background-image: url("/assets/img/hyperjs.png");
+    background-size: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(4) &__item {
+    top: 100px;
+    left: 400px;
+    width: 350px;
+    height: 280px;
+    background-color: transparent;
+    background-image: url("/assets/img/Webstorm.png");
+    background-size: 40%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(5) &__item {
+    top: 300px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    background-image: url("/assets/img/VSCode.png");
+    background-size: 70%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(6) &__item {
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    background-image: url("/assets/img/Warp.png");
+    background-size: 70%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  &__layer:nth-child(7) &__item {
+    top: 300px;
+    left: 000px;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    background-image: url("/assets/img/Textmate.png");
+    background-size: 70%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+}

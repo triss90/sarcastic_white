@@ -1,0 +1,42 @@
+.palette {
+  background: var(--base07);
+  border-radius: var(spacing01);
+  display: flex;
+  overflow: hidden;
+  border-radius: var(--spacing01);
+  box-shadow: var(--shadow01);
+  .color {
+    width: 25%;
+    .color-example {
+      background-color: var(--base07);
+      height: 100px;
+      display: block;
+    }
+    .color-hex {
+      text-align: center;
+      padding: var(--spacing01) 0;
+      font-size: 0.7rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  }
+  &.darks {
+    .color {
+      width: calc(100% / 6);
+    }
+  }
+  &.colors {
+    background-color: var(--base05);
+    box-shadow: var(--shadow02);
+    .color {
+      width: calc(100% / 5);
+    }
+  }
+  &.themes {
+    background-color: var(--base05);
+    box-shadow: var(--shadow02);
+    .color {
+      width: calc(100% / 4);
+    }
+  }
+}

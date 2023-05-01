@@ -1,0 +1,52 @@
+:root {
+  /*********************/
+  /***** UI Colors *****/
+  /*********************/
+
+  /***** Darks *****/
+  --base01: #4c566a;
+  --base02: #444d60;
+  --base03: #3e4658;
+  --base04: #383e4b;
+  --base05: #161e2f;
+  --base06: #171423;
+
+  /***** Whites *****/
+  --base07: #fefefe;
+  --base08: #eff3f8;
+  --base09: #e1e6ee;
+  --base10: #d8dde7;
+
+  /***** Colors *****/
+  --base11: #96ceb4;
+  --base12: #ffeead;
+  --base13: #ffad60;
+  --base14: #d9534f;
+  --base15: #a696c8;
+
+  /***** Theme *****/
+  --base16: #5e82ac;
+  --base17: #5f8cbf;
+  --base18: #759ac5;
+  --base19: #94b7e1;
+
+  /*****************/
+  /***** Fonts *****/
+  /*****************/
+  --font01: "Overpass", sans-serif;
+  --font02: "Caveat", cursive;
+
+  /*******************/
+  /***** Spacing *****/
+  /*******************/
+  --spacing01: 0.5rem;
+  --spacing02: 1rem;
+
+  /******************/
+  /***** Shadow *****/
+  /******************/
+  --shadow01: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
+  --shadow02: 0px 3px 6px 0px rgba(0 0 0 / 0.35);
+  --shadow03: 0px 3px 6px rgba(0 0 0 / 0.65);
+  --shadow04: 0px 3px 10px rgba(0 0 0 / 0.15);
+}

@@ -1,0 +1,77 @@
+/**
+ * Tabs
+ */
+.tabs {
+  display: flex;
+  flex-wrap: wrap; // make sure it wraps
+}
+.tabs label {
+  order: 1; // Put the labels first
+  display: block;
+  padding: 0.5rem 2rem;
+  margin-right: 0.2rem;
+  box-shadow: var(--shadow03);
+  cursor: pointer;
+  background: var(--base04);
+  color: var(--base10);
+  font-weight: bold;
+  transition: background ease 0.2s;
+  &.tabonelabel {
+    border-radius: 0.5rem 0 0 0;
+  }
+  &.tabthreelabel {
+    border-radius: 0 0.5rem 0 0;
+  }
+  &.tabfourlabel {
+    border-radius: 0.5rem 0 0 0;
+    align-self: end;
+    margin-left: auto;
+  }
+  &.tabfivelabel {
+    border-radius: 0 0.5rem 0 0;
+    align-self: end;
+    margin-right: 0;
+    //margin-left: auto;
+  }
+}
+.tabs .tab {
+  order: 99; // Put the tabs last
+  flex-grow: 1;
+  width: 100%;
+  display: none;
+  background: var(--base06);
+  box-shadow: var(--shadow03);
+  text-align: left;
+  border-radius: 0 0 0.5rem 0.5rem;
+  pre {
+    border-radius: 0.5rem;
+    code {
+      border-radius: 0.5rem;
+    }
+  }
+}
+.tabs input[type="radio"] {
+  display: none;
+}
+.tabs input[type="radio"]:checked + label {
+  background: var(--base05);
+  color: var(--base07);
+}
+.tabs input[type="radio"]:checked + label + .tab {
+  display: block;
+}
+
+@media (max-width: 45em) {
+  .tabs .tab,
+  .tabs label {
+    order: initial;
+    border-radius: 0.5rem !important;
+    margin-bottom: 0.5rem;
+  }
+  .tabs label {
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.2rem;
+    border-radius: 0.5rem !important;
+  }
+}

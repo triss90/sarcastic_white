@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sarcastic White | HighlightJS</title>
+    <link rel="stylesheet" href="sarcastic-white.css" />
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+          "Segoe UI Symbol";
+      }
+      div > .test {
+        background: blue;
+      }
+      div > #test {
+        background: blue;
+      }
+      div > #test:first-child {
+        background: blue;
+      }
+      @media (max-width: 200px) {
+        div > #test:first-child {
+          background: blue;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CSS</h1>
+    <pre>
+        <code class="language-css">
+@font-face {
+  font-family: Chunkfive; src: url('Chunkfive.otf');
+}
+
+body, .usertext {
+  color: #F0F0F0; 
+  background: #600;
+  font-family: Chunkfive, sans;
+  --heading-1: 30px/32px Helvetica, sans-serif;
+}
+
+.testClass {
+    color: red;
+}
+
+@import url(print.css);
+@media print {
+  a[href^=http]::after {
+    content: attr(href)
+  }
+}
+        </code>
+    </pre>
+
+    <h1>JS</h1>
+    <pre>
+        <code class="language-js">
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    &lt;div&gt;
+      &lt;web-component&gt;{block}&lt;/web-component&gt;
+    &lt;/div&gt;
+  )
+}
+
+export  $initHighlight;
+        </code>
+    </pre>
+
+    <h1>HTML</h1>
+    <pre>
+        <code class="language-html">
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Sarcastic White | HighlightJS&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;sarcastic-white.css&quot; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+
+    &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;
+      hljs.highlightAll();
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+        </code>
+    </pre>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </body>
+</html>

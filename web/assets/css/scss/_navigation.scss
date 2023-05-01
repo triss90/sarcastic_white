@@ -1,0 +1,41 @@
+nav#siteNav {
+  .logo {
+    font-size: 3rem;
+    svg {
+      height: 32px;
+      width: auto;
+    }
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    li {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: inline-block;
+      height: 100%;
+      a {
+        color: var(--base04);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding: 0 var(--spacing02);
+        text-decoration: none;
+        line-height: 1;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Highlight active menu item
+#home a.home,
+#ports a.ports,
+#about a.about {
+  text-decoration: underline;
+}
