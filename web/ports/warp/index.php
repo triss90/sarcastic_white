@@ -34,7 +34,7 @@
                     <br>
                     <li>Add your new custom theme yaml theme file to this directory:</li>
                     <pre><code>cp ~/Downloads/my_awesome_theme.yaml ~/.warp/themes/</code></pre>
-                    <p>Your new theme should now be visible on the list(Settings -> Appearance) of available themes.</p>
+                    <p>Your new theme should now be visible on the list(Settings &#8594 Appearance) of available themes.</p>
                 </ol>
                 <p>Refer to the <a href="https://docs.warp.dev/appearance/custom-themes" target="_blank">Warp documentation</a> for more info on custom themes.</p>
                 <br><br><br>
