@@ -30,12 +30,6 @@
 
 		</div> <!-- End .wrapper element -->
 
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"></script>
-		<script>
-			var scene = document.getElementById("js-scene");
-			var parallax = new Parallax(scene);
-		</script>
-
 		<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js"></script>
 		<script>
 			hljs.highlightAll();

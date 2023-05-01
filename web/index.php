@@ -472,4 +472,10 @@
 	</div>
 </section>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"></script>
+<script>
+	var scene = document.getElementById("js-scene");
+	var parallax = new Parallax(scene);
+</script>
+
 <?php include('_inc/footer.php'); ?>
