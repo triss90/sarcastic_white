@@ -4,6 +4,10 @@
 
 We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.
 
+## Example from VS Code
+
+![VS Code Theme Example](web/assets/img/vscode-example2.png)
+
 ## Ports
 
 ### Editors
@@ -34,7 +38,3 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 ### Others
 
 - Slack
-
-## Example from VS Code
-
-![VS Code Theme Example](web/assets/img/vscode-example2.png)
