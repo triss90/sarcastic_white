@@ -4,15 +4,21 @@
 
 We've created the theme with a clean and uncluttered design pattern in mind, to achieve optimal focus and readability for code, syntax highlighting and UI components.
 
-![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/web/assets/img/vscode-example2.png)
+![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/web/assets/img/vscode-example2.png?raw=true)
 
 ## Changelog
+
+### [1.0.6] - 2023-05-01
+
+#### Fixed
+
+- Updated readme with even more theme examples
 
 ### [1.0.5] - 2023-05-01
 
 #### Fixed
 
-- Updated readme to more theme examples
+- Updated readme with more theme examples
 
 ### [1.0.4] - 2023-04-28
 
