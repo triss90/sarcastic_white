@@ -21,7 +21,7 @@
                     <li><a href="/" class="home">Home</a></li>
                     <li><a href="/ports/" class="ports">Install theme</a></li>
                     <li><a href="/about/" class="about">About</a></li>
-                    <li><a href="/">Github</a></li>
+                    <li><a href="https://github.com/triss90/sarcastic_white/" target="_blank">Github</a></li>
                 </ul>
             </div>
         </div>
