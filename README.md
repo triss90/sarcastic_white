@@ -6,15 +6,15 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 
 ## Example from VS Code
 
-![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/web/assets/img/vscode-example2.png?raw=true)
+![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/public_html/assets/img/vscode-example2.png?raw=true)
 
 ## Ports
 
 ### Editors
 
-- [VS Code](https://sarcasticwhite.style/ports/vscode)
-- Sublime Text 4
-- Nova (Coming soon)
+- [VS Code](https://sarcasticwhite.style/ports/vscode/)
+- [Sublime Text 4](https://sarcasticwhite.style/ports/sublimetext4/)
+- [Nova](https://sarcasticwhite.style/ports/nova/)
 - Brackets (Coming soon)
 - TextMate (Coming soon)
 - VIM (Coming soon)
@@ -24,17 +24,17 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 
 ### Terminals
 
-- Warp
+- [Warp](https://sarcasticwhite.style/ports/warp/)
 - iTerm2 (Coming soon)
-- PuTTY
+- [PuTTY](https://sarcasticwhite.style/ports/putty/)
 - hyper.js (Coming soon)
 
 ### Syntax Highlighting
 
-- hightlight.js
-- rainbow.js
+- [hightlight.js](https://sarcasticwhite.style/ports/highlightjs/)
+- [rainbow.js](https://sarcasticwhite.style/ports/rainbowjs/)
 - prism.js (Coming soon)
 
 ### Others
 
-- Slack
+- [Slack](https://sarcasticwhite.style/ports/slack/)
