@@ -274,6 +274,7 @@
 						<img src="assets/img/Brackets.png">
 						<img src="assets/img/HLJS.png">
 						<img src="assets/img/hyperjs.png">
+						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Iterm2.png">
 						<img src="assets/img/Notepad++.png">
 						<img src="assets/img/PHP Storm.png">
@@ -282,7 +283,6 @@
 						<img src="assets/img/Sublime Text 4.png">
 						<img src="assets/img/Textmate.png">
 						<img src="assets/img/VIm.png">
-						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Warp.png">
 						<img src="assets/img/Webstorm.png">
 						<img src="assets/img/Putty.png">
@@ -292,6 +292,7 @@
 						<img src="assets/img/Brackets.png">
 						<img src="assets/img/HLJS.png">
 						<img src="assets/img/hyperjs.png">
+						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Iterm2.png">
 						<img src="assets/img/Notepad++.png">
 						<img src="assets/img/PHP Storm.png">
@@ -300,7 +301,6 @@
 						<img src="assets/img/Sublime Text 4.png">
 						<img src="assets/img/Textmate.png">
 						<img src="assets/img/VIm.png">
-						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Warp.png">
 						<img src="assets/img/Webstorm.png">
 						<img src="assets/img/Putty.png">
