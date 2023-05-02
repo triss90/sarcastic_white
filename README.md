@@ -6,14 +6,14 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 
 ## Example from VS Code
 
-![VS Code Theme Example](web/assets/img/vscode-example2.png)
+![VS Code Theme Example](https://github.com/triss90/sarcastic_white/blob/master/web/assets/img/vscode-example2.png?raw=true)
 
 ## Ports
 
 ### Editors
 
-- VS Code
-- Sublime Text 4 (Coming soon)
+- [VS Code](https://sarcasticwhite.style/ports/vscode)
+- Sublime Text 4
 - Nova (Coming soon)
 - Brackets (Coming soon)
 - TextMate (Coming soon)
