@@ -4,22 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     
-    <title>Sarcastic White</title>
+    <title>Sarcastic White Theme</title>
 
     <link rel="stylesheet" href="/assets/css/gridder.css">
     <link rel="stylesheet" href="/assets/css/sarcastic-white.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     
-    <meta name="description" content="Page description">
-    <meta property="og:title" content="Unique page title - My Site">
-    <meta property="og:description" content="Page description">
-    <meta property="og:image" content="https://www.mywebsite.com/image.jpg">
-    <meta property="og:image:alt" content="Image description">
+    <meta name="description" content="A cool and crisp color theme created around uncluttered design patterns to achieve optimal focus, readability and structure for code, syntax highlighting and UI components.">
+    <meta property="og:title" content="Sarcastic White Theme">
+    <meta property="og:description" content="A cool and crisp color theme created around uncluttered design patterns to achieve optimal focus, readability and structure for code, syntax highlighting and UI components.">
+    <meta property="og:image" content="https://triss.dev/assets/img/me/tw_720.jpg">
+    <meta property="og:image:alt" content="Image of Tristan White, Author of the website">
     <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:url" content="https://www.mywebsite.com/page">
-    <link rel="canonical" href="https://www.mywebsite.com/page">
     
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
