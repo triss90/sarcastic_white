@@ -175,6 +175,38 @@
                 </div>
             </div>
 
+            <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="syntax">
+                <div class="card disabled"> 
+                    <div class="ribbon ribbon-top-right"><span>Coming soon</span></div>
+                    <div class="header">
+                        <img src="../assets/img/codemirror.png" alt="CodeMirror icon">
+                    </div>
+                    <div class="body">
+                        <h3>CodeMirror</h3>
+                        <p>CodeMirror is a versatile, open-source text editor implemented in JavaScript, designed for code editing within web browsers.</p>
+                    </div>
+                    <div class="footer">
+                        <a href="/ports/codemirror" class="link">Install theme</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="syntax">
+                <div class="card disabled"> 
+                    <div class="ribbon ribbon-top-right"><span>Coming soon</span></div>
+                    <div class="header">
+                        <img src="../assets/img/codepen.png" alt="CodePen icon">
+                    </div>
+                    <div class="body">
+                        <h3>CodePen</h3>
+                        <p>CodePen is an online code editor and social platform for developers, enabling live previews and sharing of HTML, CSS, and JavaScript projects.</p>
+                    </div>
+                    <div class="footer">
+                        <a href="/ports/codepen" class="link">Install theme</a>
+                    </div>
+                </div>
+            </div>
+
             <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="editors">
                 <div class="card">
                     <div class="header">

@@ -277,6 +277,8 @@
 						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Iterm2.png">
 						<img src="assets/img/Notepad++.png">
+						<img src="assets/img/codemirror.png">
+						<img src="assets/img/codepen.png">
 						<img src="assets/img/PHP Storm.png">
 						<img src="assets/img/prism.js.png">
 						<img src="assets/img/Slack.png">
@@ -295,6 +297,8 @@
 						<img src="assets/img/VSCode.png">
 						<img src="assets/img/Iterm2.png">
 						<img src="assets/img/Notepad++.png">
+						<img src="assets/img/codemirror.png">
+						<img src="assets/img/codepen.png">
 						<img src="assets/img/PHP Storm.png">
 						<img src="assets/img/prism.js.png">
 						<img src="assets/img/Slack.png">
