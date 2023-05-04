@@ -1215,6 +1215,9 @@ body#darkmode {
   background: var(--base05);
   color: var(--base08);
 }
+body#darkmode section {
+  background: var(--base05);
+}
 body#darkmode .button,
 body#darkmode button {
   border-color: var(--base08);

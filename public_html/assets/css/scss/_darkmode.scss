@@ -2,6 +2,9 @@ body#darkmode {
   background: var(--base05);
   color: var(--base08);
 
+  section {
+    background: var(--base05);
+  }
   // Buttons
   .button,
   button {
