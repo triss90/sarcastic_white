@@ -1,6 +1,6 @@
 <?php include('../../_inc/header.php'); ?>
 
-<div class="wrapper" id="ports">
+<div class="wrapper">
 
 <?php include('../../_inc/navigation.php'); ?>
 
