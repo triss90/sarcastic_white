@@ -192,8 +192,7 @@
             </div>
 
             <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="syntax">
-                <div class="card disabled"> 
-                    <div class="ribbon ribbon-top-right"><span>Coming soon</span></div>
+                <div class="card"> 
                     <div class="header">
                         <img src="../assets/img/codepen.png" alt="CodePen icon">
                     </div>
