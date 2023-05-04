@@ -27,8 +27,8 @@
 							<style>
 								.st10,.st5,.st6,.st7,.st8,.st9{fill:none;stroke:var(--base15);stroke-width:3;stroke-linecap:round;stroke-miterlimit:10}.st10,.st6,.st7,.st8,.st9{stroke:var(--base19)}.st10,.st7,.st8,.st9{stroke:var(--base13)}.st10,.st8,.st9{stroke:var(--base16)}.st10,.st9{stroke:var(--base07)}.st10{stroke:var(--base12)}
 							</style>
-							<path d="M224.4 193H22.1a9.3 9.3 0 0 1-9.3-9.3V10.4c0-5.2 4.2-9.3 9.3-9.3h202.3c5.2 0 9.3 4.2 9.3 9.3v173.3a9.2 9.2 0 0 1-9.3 9.3z" fill="var(--base05)"/>
-							<path d="M233.8 16h-221V9.9c0-5.2 4.2-9.3 9.3-9.3h202.3c5.2 0 9.3 4.2 9.3 9.3V16z" fill="var(--base06)"/>
+							<path class="bg" d="M224.4 193H22.1a9.3 9.3 0 0 1-9.3-9.3V10.4c0-5.2 4.2-9.3 9.3-9.3h202.3c5.2 0 9.3 4.2 9.3 9.3v173.3a9.2 9.2 0 0 1-9.3 9.3z" fill="var(--base05)"/>
+							<path class="head" d="M233.8 16h-221V9.9c0-5.2 4.2-9.3 9.3-9.3h202.3c5.2 0 9.3 4.2 9.3 9.3V16z" fill="var(--base06)"/>
 							<ellipse cx="22.9" cy="8.5" rx="3.2" ry="3" fill="var(--base11)"/>
 							<ellipse cx="32.2" cy="8.5" rx="3.2" ry="3" fill="var(--base12)"/>
 							<ellipse cx="41.5" cy="8.5" rx="3.2" ry="3" fill="var(--base14)"/>

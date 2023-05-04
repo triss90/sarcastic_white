@@ -267,7 +267,6 @@ code {
   fill: var(--base09);
 }
 
-html,
 body  {
   background: var(--base07);
   color: var(--base04);
@@ -346,6 +345,7 @@ section#about {
 
 footer {
   background-color: var(--base09);
+  color: var(--base05);
   padding: 5rem 0;
 }
 footer p {
@@ -367,6 +367,10 @@ nav#siteNav .logo {
 nav#siteNav .logo svg {
   height: 32px;
   width: auto;
+}
+nav#siteNav .logo svg path {
+  stroke: var(--base05) !important;
+  fill: var(--base07) !important;
 }
 nav#siteNav ul {
   margin: 0;
@@ -392,6 +396,25 @@ nav#siteNav ul li a {
 }
 nav#siteNav ul li a:hover {
   text-decoration: underline;
+}
+nav#siteNav ul li button.theme {
+  padding: calc(var(--spacing01) / 2) var(--spacing01);
+  margin: 0;
+  border: 0;
+}
+nav#siteNav ul li button.theme svg.moon,
+nav#siteNav ul li button.theme svg.sun {
+  position: relative;
+  height: auto;
+}
+nav#siteNav ul li button.theme svg.moon {
+  width: 1rem;
+  fill: var(--base05);
+}
+nav#siteNav ul li button.theme svg.sun {
+  top: 1px;
+  width: 1rem;
+  fill: var(--base07);
 }
 
 #home a.home,
@@ -1186,4 +1209,137 @@ input[type=text] {
   left: -25px;
   bottom: 30px;
   transform: rotate(-225deg);
+}
+
+body#darkmode {
+  background: var(--base05);
+  color: var(--base08);
+}
+body#darkmode .button,
+body#darkmode button {
+  border-color: var(--base08);
+  color: var(--base08);
+}
+body#darkmode .button:hover,
+body#darkmode button:hover {
+  border-color: var(--base19);
+  color: var(--base19);
+}
+body#darkmode .button.primary,
+body#darkmode button.primary {
+  border-color: var(--base19);
+  color: var(--base08);
+}
+body#darkmode .button.primary:hover,
+body#darkmode button.primary:hover {
+  border-color: var(--base19);
+  color: var(--base08);
+}
+body#darkmode .card {
+  background: var(--base06);
+  box-shadow: var(--shadow04);
+}
+body#darkmode .card .footer a.link {
+  background-color: var(--base04);
+}
+body#darkmode nav#siteNav {
+  background: var(--base05);
+}
+body#darkmode nav#siteNav .logo svg path {
+  stroke: var(--base07) !important;
+  fill: var(--base05) !important;
+}
+body#darkmode nav#siteNav ul li a {
+  color: var(--base08);
+}
+body#darkmode #header {
+  background: var(--base05);
+}
+body#darkmode #header .decorations.decorations-1 {
+  z-index: 1;
+}
+body#darkmode #header .decorations.decorations-1 svg {
+  fill: var(--base04);
+}
+body#darkmode #header svg#editor .bg {
+  fill: var(--base02r);
+}
+body#darkmode #header svg#editor .head {
+  fill: var(--base04);
+}
+body#darkmode .divider01 path {
+  fill: var(--base06);
+}
+body#darkmode #blacksAndWhites {
+  background: var(--base06);
+}
+body#darkmode #blacksAndWhites .decorations.decorations-2 svg {
+  color: var(--base04);
+}
+body#darkmode #blacksAndWhites .palette.darks {
+  background: var(--base05);
+  box-shadow: var(--shadow03);
+}
+body#darkmode #blacksAndWhites .palette {
+  background: var(--base05);
+  box-shadow: var(--shadow03);
+}
+body#darkmode #blacksAndWhites hr {
+  background-color: var(--base04);
+}
+body#darkmode .divider02 {
+  background: var(--base06);
+}
+body#darkmode .divider02 path {
+  fill: var(--base05);
+}
+body#darkmode .divider03 {
+  background-color: var(--base05);
+}
+body#darkmode .divider03 path {
+  fill: var(--base06);
+}
+body#darkmode #ports {
+  color: var(--base08);
+  background-color: var(--base06);
+}
+body#darkmode #ports .logo-slider:after {
+  background: linear-gradient(to right, #171423, rgba(239, 243, 248, 0) 220px, rgba(239, 243, 248, 0) calc(100% - 220px), #171423);
+}
+body#darkmode .divider04 {
+  background-color: var(--base06);
+  stroke: var(--base04);
+}
+body#darkmode .divider04 path {
+  fill: transparent;
+}
+body#darkmode #ports2 {
+  color: var(--base08);
+  background-color: var(--base06);
+}
+body#darkmode .divider05 {
+  background-color: var(--base06);
+}
+body#darkmode .divider05 path {
+  fill: var(--base05);
+}
+body#darkmode #about {
+  color: var(--base08);
+  background-color: var(--base05);
+}
+body#darkmode .divider06 {
+  background-color: var(--base05);
+}
+body#darkmode .divider06 path:nth-child(1) {
+  fill: var(--base02);
+}
+body#darkmode .divider06 path:nth-child(2) {
+  fill: var(--base03);
+}
+body#darkmode .divider06 path:nth-child(3) {
+  fill: var(--base04);
+}
+body#darkmode #footer {
+  background-color: var(--base04);
+  color: var(--base08);
 }/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,170 @@
+body#darkmode {
+  background: var(--base05);
+  color: var(--base08);
+
+  // Buttons
+  .button,
+  button {
+    border-color: var(--base08);
+    color: var(--base08);
+    &:hover {
+      border-color: var(--base19);
+      color: var(--base19);
+    }
+  }
+  .button.primary,
+  button.primary {
+    border-color: var(--base19);
+    color: var(--base08);
+    &:hover {
+      border-color: var(--base19);
+      color: var(--base08);
+    }
+  }
+
+  .card {
+    background: var(--base06);
+    box-shadow: var(--shadow04);
+    .footer {
+      a.link {
+        background-color: var(--base04);
+      }
+    }
+  }
+
+  // navigation
+  nav#siteNav {
+    background: var(--base05);
+    .logo {
+      svg {
+        path {
+          stroke: var(--base07) !important;
+          fill: var(--base05) !important;
+        }
+      }
+    }
+    ul li a {
+      color: var(--base08);
+    }
+  }
+
+  // Header section
+  #header {
+    background: var(--base05);
+    .decorations.decorations-1 {
+      z-index: 1;
+      svg {
+        fill: var(--base04);
+      }
+    }
+    svg#editor {
+      .bg {
+        fill: var(--base02r);
+      }
+      .head {
+        fill: var(--base04);
+      }
+    }
+  }
+
+  .divider01 {
+    path {
+      fill: var(--base06);
+    }
+  }
+
+  // Black and White section
+  #blacksAndWhites {
+    background: var(--base06);
+    .decorations.decorations-2 {
+      svg {
+        color: var(--base04);
+      }
+    }
+    .palette.darks {
+      background: var(--base05);
+      box-shadow: var(--shadow03);
+    }
+    .palette {
+      background: var(--base05);
+      box-shadow: var(--shadow03);
+    }
+    hr {
+      background-color: var(--base04);
+    }
+  }
+
+  .divider02 {
+    background: var(--base06);
+    path {
+      fill: var(--base05);
+    }
+  }
+  .divider03 {
+    background-color: var(--base05);
+    path {
+      fill: var(--base06);
+    }
+  }
+
+  // Ports section
+  #ports {
+    color: var(--base08);
+    background-color: var(--base06);
+    .logo-slider:after {
+      background: linear-gradient(
+        to right,
+        #171423,
+        rgba(239, 243, 248, 0) 220px,
+        rgba(239, 243, 248, 0) calc(100% - 220px),
+        #171423
+      );
+    }
+  }
+  .divider04 {
+    background-color: var(--base06);
+    stroke: var(--base04);
+    path {
+      fill: transparent;
+    }
+  }
+
+  // Ports2 section
+  #ports2 {
+    color: var(--base08);
+    background-color: var(--base06);
+  }
+
+  .divider05 {
+    background-color: var(--base06);
+    path {
+      fill: var(--base05);
+    }
+  }
+
+  // About section
+  #about {
+    color: var(--base08);
+    background-color: var(--base05);
+  }
+
+  .divider06 {
+    background-color: var(--base05);
+    path {
+      &:nth-child(1) {
+        fill: var(--base02);
+      }
+      &:nth-child(2) {
+        fill: var(--base03);
+      }
+      &:nth-child(3) {
+        fill: var(--base04);
+      }
+    }
+  }
+  // Footer section
+  #footer {
+    background-color: var(--base04);
+    color: var(--base08);
+  }
+}

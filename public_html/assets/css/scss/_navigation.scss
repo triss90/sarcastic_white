@@ -4,6 +4,10 @@ nav#siteNav {
     svg {
       height: 32px;
       width: auto;
+      path {
+        stroke: var(--base05) !important;
+        fill: var(--base07) !important;
+      }
     }
   }
   ul {
@@ -27,6 +31,25 @@ nav#siteNav {
         line-height: 1;
         &:hover {
           text-decoration: underline;
+        }
+      }
+      button.theme {
+        padding: calc(var(--spacing01) / 2) var(--spacing01);
+        margin: 0;
+        border: 0;
+        svg.moon,
+        svg.sun {
+          position: relative;
+          height: auto;
+        }
+        svg.moon {
+          width: 1rem;
+          fill: var(--base05);
+        }
+        svg.sun {
+          top: 1px;
+          width: 1rem;
+          fill: var(--base07);
         }
       }
     }

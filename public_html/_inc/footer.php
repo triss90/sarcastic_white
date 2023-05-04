@@ -35,6 +35,6 @@
 			hljs.highlightAll();
 		</script>
 		
-		<script src="/assets/js/app.js"></scrip>
+		<script src="/assets/js/app.js"></script>
 	</body>
 </html>
