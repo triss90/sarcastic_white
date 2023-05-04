@@ -23,7 +23,7 @@
 	</div>
 </header>
 
-<section>
+<section style="margin-bottom: 25rem;">
     <div class="container">
         <div class="row">
 			<div class="tiny-12">
