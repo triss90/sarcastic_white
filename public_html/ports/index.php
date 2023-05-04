@@ -19,17 +19,6 @@
                 <br>
                 <p>Download Sarcastic White for all your favourite apps.</p>
                 <br>
-                <!-- <div class="parallax">
-                    <div class="parallax__inner ports" id="js-scene">
-                        <div class="parallax__layer layer" data-depth="0.85"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.70"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.65"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.80"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.60"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.50"><div class="parallax__item" data-title=""></div></div>
-                        <div class="parallax__layer layer" data-depth="0.72"><div class="parallax__item" data-title=""></div></div>
-                    </div>
-                </div> -->
 			</div>	
 		</div>
         <div class="row tiny-center">
