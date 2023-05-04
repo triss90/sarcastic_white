@@ -15,6 +15,7 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 - [VS Code](https://sarcasticwhite.style/ports/vscode/)
 - [Sublime Text 4](https://sarcasticwhite.style/ports/sublimetext4/)
 - [Nova](https://sarcasticwhite.style/ports/nova/)
+- [Codepen](https://sarcasticwhite.style/ports/codepen/)
 - Brackets (Coming soon)
 - TextMate (Coming soon)
 - VIM (Coming soon)
@@ -34,6 +35,7 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 - [hightlight.js](https://sarcasticwhite.style/ports/highlightjs/)
 - [rainbow.js](https://sarcasticwhite.style/ports/rainbowjs/)
 - prism.js (Coming soon)
+- CodeMirror (Coming soon)
 
 ### Others
 
