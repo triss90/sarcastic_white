@@ -2,6 +2,10 @@ body#darkmode {
   background: var(--base05);
   color: var(--base08);
 
+  hr {
+    background-color: var(--base04);
+  }
+
   section {
     background: var(--base05);
   }
@@ -28,6 +32,9 @@ body#darkmode {
   .card {
     background: var(--base06);
     box-shadow: var(--shadow04);
+    .header {
+      border-bottom-color: var(--base04);
+    }
     .footer {
       a.link {
         background-color: var(--base04);

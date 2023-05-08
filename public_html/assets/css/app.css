@@ -1215,6 +1215,9 @@ body#darkmode {
   background: var(--base05);
   color: var(--base08);
 }
+body#darkmode hr {
+  background-color: var(--base04);
+}
 body#darkmode section {
   background: var(--base05);
 }
@@ -1241,6 +1244,9 @@ body#darkmode button.primary:hover {
 body#darkmode .card {
   background: var(--base06);
   box-shadow: var(--shadow04);
+}
+body#darkmode .card .header {
+  border-bottom-color: var(--base04);
 }
 body#darkmode .card .footer a.link {
   background-color: var(--base04);
