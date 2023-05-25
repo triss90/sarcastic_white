@@ -17,8 +17,8 @@
 				<h1>Sarcastic White</h1>
 				<p>A cool and crisp color theme created around uncluttered design patterns to achieve optimal focus, readability and structure for code, syntax highlighting and UI components.</p>
 				<br>
-				<a href="#" class="button primary">Install Theme</a>
-				<a href="#" class="button">Documentation</a>
+				<a href="ports/" class="button primary">Install Theme</a>
+				<a href="about/" class="button">About</a>
 			</div>
 			<div class="tiny-8 medium-4 large-6 huge-4 huge-offset-3">
 				<div class="row small-center medium-end">
