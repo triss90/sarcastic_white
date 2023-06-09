@@ -164,6 +164,21 @@
                 </div>
             </div>
 
+            <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="terminal">
+                <div class="card"> 
+                    <div class="header">
+                        <img src="../assets/img/fastmail.png" alt="Fastmail icon">
+                    </div>
+                    <div class="body">
+                        <h3>Fastmail</h3>
+                        <p>Fastmail is a secure, ad-free email service with integrated calendar and contacts, offering robust privacy and user-friendly interfaces for all communication.</p>
+                    </div>
+                    <div class="footer">
+                        <a href="/ports/fastmail" class="link">Install theme</a>
+                    </div>
+                </div>
+            </div>
+
             <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="syntax">
                 <div class="card disabled"> 
                     <div class="ribbon ribbon-top-right"><span>Coming soon</span></div>

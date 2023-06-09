@@ -40,3 +40,4 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 ### Others
 
 - [Slack](https://sarcasticwhite.style/ports/slack/)
+- [Fastmail](https://sarcasticwhite.style/ports/fastmail/)
