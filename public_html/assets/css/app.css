@@ -241,6 +241,7 @@ code {
 @media (max-width: 48em) {
   .divider04 {
     height: 100px;
+    max-width: 100%;
   }
 }
 .divider04 path {
@@ -270,6 +271,11 @@ code {
 body  {
   background: var(--base07);
   color: var(--base04);
+}
+
+.wrapper {
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 header#header {
@@ -847,7 +853,7 @@ svg#editor #code path#export_4 {
 }
 .decorations.decorations-2 svg:nth-child(5) {
   top: 25%;
-  left: 50%;
+  left: 45%;
 }
 .decorations.decorations-3 {
   z-index: 0;
