@@ -133,6 +133,21 @@
                 </div>
             </div>
 
+            <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="terminal">
+                <div class="card">
+                    <div class="header">
+                        <img src="../assets/img/typora.png" alt="Typora icon">
+                    </div>
+                    <div class="body">
+                        <h3>Typora</h3>
+                        <p>Typora is a minimalist markdown editor that offers seamless live preview, inline images, and file organization for efficient writing.</p>
+                    </div>
+                    <div class="footer">
+                        <a href="/ports/typora" class="link">Install theme</a>
+                    </div>
+                </div>
+            </div>
+
             <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="editors">
                 <div class="card"> 
                     <div class="header">

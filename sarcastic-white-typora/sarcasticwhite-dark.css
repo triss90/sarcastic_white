@@ -1,0 +1,62 @@
+@import "sarcasticwhite.css";
+@import "sarcasticwhite.user.css";
+
+:root {
+	--sw-prose-body: var(--sw-prose-invert-body);
+	--sw-prose-headings: var(--sw-prose-invert-headings);
+	--sw-prose-lead: var(--sw-prose-invert-lead);
+	--sw-prose-links: var(--sw-prose-invert-links);
+	--sw-prose-bold: var(--sw-prose-invert-bold);
+	--sw-prose-counters: var(--sw-prose-invert-counters);
+	--sw-prose-bullets: var(--sw-prose-invert-bullets);
+	--sw-prose-hr: var(--sw-prose-invert-hr);
+	--sw-prose-quotes: var(--sw-prose-invert-quotes);
+	--sw-prose-quote-borders: var(--sw-prose-invert-quote-borders);
+	--sw-prose-code: var(--sw-prose-invert-code);
+	--sw-prose-captions: var(--sw-prose-invert-captions);
+	--sw-prose-pre-bg: var(--sw-prose-invert-pre-bg);
+	--sw-prose-th-borders: var(--sw-prose-invert-th-borders);
+	--sw-prose-td-borders: var(--sw-prose-invert-td-borders);
+	--sw-prose-bg: var(--sw-prose-invert-bg);
+	--sw-prose-meta: var(--sw-prose-invert-meta);
+	--sw-prose-meta-bg: var(--sw-prose-invert-meta-bg);
+
+	--sw-button-hover-bg: var(--sw-button-hover-bg-inverted);
+
+	--select-text-bg-color: var(--select-text-bg-color-dark);
+	--select-text-font-color: var(--select-text-font-color-dark);
+
+	--md-char-color: var(--md-char-color-inverted);
+	--meta-content-color: var(--meta-content-color-inverted);
+	--panel-border-color: var(--panel-border-color-inverted);
+	--active-file-bg-color: var(--active-file-bg-color-inverted);
+	--window-border: var(--window-border-inverted);
+	--search-hit-text-bg-color: var(--search-hit-text-bg-color-inverted);
+	--search-hit-text-font-color: var(--search-hit-text-font-color-inverted);
+	--search-select-bg-color: var(--search-select-bg-color-inverted);
+	--blur-text-color: var(--blur-text-color-inverted);
+	--item-hover-bg-color: var(--item-hover-bg-color-inverted);
+	--typora-source-body: var(--typora-source-body-inverted);
+	--mermaid-theme: var(--mermaid-theme-inverted);
+	--active-toggle-btn-color: var(--active-toggle-btn-color-inverted);
+
+	--code-neutral: var(--code-neutral-inverted);
+	--code-cursor: var(--code-cursor-inverted);
+	--code-string: var(--code-string-inverted);
+	--code-number: var(--code-number-inverted);
+	--code-tag: var(--code-tag-inverted);
+	--code-variable: var(--code-variable-inverted);
+	--code-operator: var(--code-operator-inverted);
+	--code-comment: var(--code-comment-inverted);
+	--code-bracket: var(--code-bracket-inverted);
+	--code-citation: var(--code-citation-inverted);
+
+	--button-bg: var(--button-bg-inverted);
+
+	--md-grid-header: var(--md-grid-header-inverted);
+	--md-grid-header-ext: var(--md-grid-header-ext-inverted);
+	--md-grid-ext: var(--md-grid-ext-inverted);
+	--md-grid-header-active: var(--md-grid-header-active-inverted);
+	--md-grid-active: var(--md-grid-active-inverted);
+	--md-grid-border-color: var(--md-grid-border-color-inverted);
+}

@@ -793,6 +793,17 @@ svg#editor #code path#export_4 {
   background-position: center center;
   background-repeat: no-repeat;
 }
+.parallax__layer:nth-child(8) .parallax__item {
+  top: 100px;
+  left: -50px;
+  width: 200px;
+  height: 200px;
+  background-color: transparent;
+  background-image: url("/assets/img/typora.png");
+  background-size: 70%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
 
 .decorations {
   z-index: -1;

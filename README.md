@@ -16,6 +16,7 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 - [Sublime Text 4](https://sarcasticwhite.style/ports/sublimetext4/)
 - [Nova](https://sarcasticwhite.style/ports/nova/)
 - [Codepen](https://sarcasticwhite.style/ports/codepen/)
+- [Typora](https://sarcasticwhite.style/ports/typora/)
 - Brackets (Coming soon)
 - TextMate (Coming soon)
 - VIM (Coming soon)

@@ -468,6 +468,7 @@
 						<div class="parallax__layer layer" data-depth="0.60"><div class="parallax__item" data-title=""></div></div>
 						<div class="parallax__layer layer" data-depth="0.50"><div class="parallax__item" data-title=""></div></div>
 						<div class="parallax__layer layer" data-depth="0.72"><div class="parallax__item" data-title=""></div></div>
+						<div class="parallax__layer layer" data-depth="0.62"><div class="parallax__item" data-title=""></div></div>
 					</div>
 				</div>
 
