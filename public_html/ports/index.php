@@ -164,8 +164,8 @@
             </div>
 
             <div class="tiny-12 small-6 medium-4 filter-item" data-filter-item="terminal">
-                <div class="card disabled"> 
-                    <div class="ribbon ribbon-top-right"><span>Coming soon</span></div>
+                <div class="card"> 
+                    <!-- <div class="ribbon ribbon-top-right"><span>Coming soon</span></div> -->
                     <div class="header">
                         <img src="../assets/img/Iterm2.png" alt="iTerm2 icon">
                     </div>

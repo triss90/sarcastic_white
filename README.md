@@ -27,7 +27,7 @@ We've created the theme with a clean and uncluttered design pattern in mind, to 
 ### Terminals
 
 - [Warp](https://sarcasticwhite.style/ports/warp/)
-- iTerm2 (Coming soon)
+- [iTerm2](https://sarcasticwhite.style/ports/iterm2/)
 - [PuTTY](https://sarcasticwhite.style/ports/putty/)
 - hyper.js (Coming soon)
 
