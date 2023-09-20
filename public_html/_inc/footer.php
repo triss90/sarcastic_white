@@ -12,6 +12,23 @@
 					<div class="tiny-12 small-4 tiny-center tiny-last">
 						<p>The Sarcastic White Theme is a free and open source project created by <a href="https://triss.dev" target="_blank">Tristan White</a>.</p>
 						<p>© 2023</p>
+						<br>
+						<div id="badge"></div>
+						<script src="https://cdn.jsdelivr.net/npm/co2.observer@1.2.0/badge.min.js"></script>
+						<script>
+						const myBadge = new Badge({
+							target: '#badge',
+							key: '425e5e5a59100505494518044548594f585c4f580559435e4f05155f584617594b58494b595e43495d42435e4f04595e53464f0668061a041b1e4d0a696518055c434f5d0669464f4b444f580a5e424b440a121c0f0a454c0a5a4b4d4f590a5e4f595e4f4e',
+							backgroundColor: '#FEFEFE', 
+							logoColor: '#5F8CBF',
+							textColor: '#5E82AC',
+							borderColor: '#94B7E1',
+							borderSize: '2px',
+							borderRadius: '50px',
+							display: 'inline-block',
+						});
+						myBadge.init();
+						</script>
 					</div>
 					<div class="tiny-12 small-4 tiny-center tiny-first small-last small-end">
 						<p>
